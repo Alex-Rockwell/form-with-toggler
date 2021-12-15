@@ -3,7 +3,6 @@ import { purple } from '@mui/material/colors';
 import { Box } from '@mui/system';
 import { AppBar, IconButton, Toolbar, Typography, InputBase } from '@mui/material';
 import { Button } from '@mui/material';
-import { Switch } from '@mui/material';
 
 const StRoot = styled(Box)({
   width: '100%',
@@ -50,14 +49,14 @@ const ColorButton = styled(Button) ({
   backgroundColor: purple[500],
 })
 
-const StAppBar = styled(AppBar) ({
+const StAppBar = styled(AppBar) (({theme}) => ({
   display: 'flex', 
   flexDirection: 'row',
   justifyContent: 'space-between',
   alignItems: 'center',
-  backgroundColor: purple[700],
+  // backgroundColor: purple[700],
   padding: '0 5rem',
-})
+}))
 
 const StInputBase = styled(InputBase) (({theme}) => ({
     root: {
