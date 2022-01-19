@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/form-with-toggler/static/css/main.4ab5fde3.chunk.css",
+    "main.js": "/form-with-toggler/static/js/main.21f678bd.chunk.js",
+    "main.js.map": "/form-with-toggler/static/js/main.21f678bd.chunk.js.map",
+    "runtime-main.js": "/form-with-toggler/static/js/runtime-main.cb063022.js",
+    "runtime-main.js.map": "/form-with-toggler/static/js/runtime-main.cb063022.js.map",
+    "static/js/2.d38e22f3.chunk.js": "/form-with-toggler/static/js/2.d38e22f3.chunk.js",
+    "static/js/2.d38e22f3.chunk.js.map": "/form-with-toggler/static/js/2.d38e22f3.chunk.js.map",
+    "static/js/3.7763a8bb.chunk.js": "/form-with-toggler/static/js/3.7763a8bb.chunk.js",
+    "static/js/3.7763a8bb.chunk.js.map": "/form-with-toggler/static/js/3.7763a8bb.chunk.js.map",
+    "index.html": "/form-with-toggler/index.html",
+    "static/css/main.4ab5fde3.chunk.css.map": "/form-with-toggler/static/css/main.4ab5fde3.chunk.css.map",
+    "static/js/2.d38e22f3.chunk.js.LICENSE.txt": "/form-with-toggler/static/js/2.d38e22f3.chunk.js.LICENSE.txt",
+    "static/media/spain.9939f8bd.png": "/form-with-toggler/static/media/spain.9939f8bd.png",
+    "static/media/uk.b3b167e3.svg": "/form-with-toggler/static/media/uk.b3b167e3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb063022.js",
+    "static/js/2.d38e22f3.chunk.js",
+    "static/css/main.4ab5fde3.chunk.css",
+    "static/js/main.21f678bd.chunk.js"
+  ]
+}
